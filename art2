@@ -1,0 +1,29 @@
+{
+
+  "contact": "r/ralsei & r/deltarune ; discord: patripastry",
+
+  "templates": [
+
+    {
+
+      "name": "ralsei waving",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1131385476721410149/1131400260439253154/Ralsei_Waving_Pixel.png"
+
+      ],
+
+      "x": 894,
+
+      "y": 892
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
