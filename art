@@ -6,14 +6,12 @@
       "sources": [
         "https://cdn.discordapp.com/attachments/1131385476721410149/1131400260439253154/Ralsei_Waving_Pixel.png"
       ],
-      "x": 894,
-      "y": 637
+      "x": 788,
+      "y": 765
     }
   ],
   "whitelist": [
     {
-      "name": "P3ACE",
-      "url": "https://charity.pxls.space/p3ace"
     }
 ],
   "blacklist": []
